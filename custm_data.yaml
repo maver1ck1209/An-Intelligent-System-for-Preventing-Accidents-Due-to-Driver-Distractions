@@ -1,0 +1,7 @@
+train: C:\Users\maver\OneDrive\Documents\Giridhar\sem6\tarp\ultralytics-main\train
+val: C:\Users\maver\OneDrive\Documents\Giridhar\sem6\tarp\ultralytics-main\val
+test: C:\Users\maver\OneDrive\Documents\Giridhar\sem6\tarp\ultralytics-main\test
+ 
+# Classes
+nc: 3  # number of classes
+names: ['Awake', 'Drowsy', 'Phone']
